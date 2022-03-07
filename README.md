@@ -15,4 +15,5 @@
 ## Recommendation (collaborative filtering)
 
 [On the Difficulty of Evaluating Baselines](https://arxiv.org/pdf/1905.01395v1.pdf)
+
 [Why Are Deep Learning Models Not Consistently Winning Recommender Systems Competitions Yet?: A Position Paper](https://www.researchgate.net/profile/Dietmar-Jannach/publication/345464903_Why_Are_Deep_Learning_Models_Not_Consistently_Winning_Recommender_Systems_Competitions_Yet_A_Position_Paper/links/608598ea8ea909241e261562/Why-Are-Deep-Learning-Models-Not-Consistently-Winning-Recommender-Systems-Competitions-Yet-A-Position-Paper.pdf)
