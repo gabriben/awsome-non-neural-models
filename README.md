@@ -12,7 +12,7 @@
 
 [Do We Really Need Deep Learning Models for Time Series Forecasting?](https://arxiv.org/pdf/2101.02118.pdf)
 
-## Recommendation (collaborative filtering)
+## recommendation (collaborative filtering)
 
 [On the Difficulty of Evaluating Baselines](https://arxiv.org/pdf/1905.01395v1.pdf)
 
@@ -20,6 +20,6 @@
 
 [Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recommendation Approaches](https://arxiv.org/pdf/1907.06902.pdf)
 
-## Learning to Rank
+## learning to rank
 
 [Critically Examining the “Neural Hype”: Weak Baselines and the Additivity of Effectiveness Gains from Neural Ranking Models](https://arxiv.org/pdf/1904.09171.pdf)
