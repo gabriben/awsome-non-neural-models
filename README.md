@@ -12,6 +12,10 @@
 
 [Do We Really Need Deep Learning Models for Time Series Forecasting?](https://arxiv.org/pdf/2101.02118.pdf)
 
+## text classification
+
+[On the cost-effectiveness of neural and non-neural approaches and representations for text classification: A comprehensive comparative study](https://www.sciencedirect.com/science/article/abs/pii/S0306457320309705)
+
 ## recommendation (collaborative filtering)
 
 [On the Difficulty of Evaluating Baselines](https://arxiv.org/pdf/1905.01395v1.pdf)
