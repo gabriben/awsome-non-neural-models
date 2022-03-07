@@ -27,3 +27,7 @@
 ## learning to rank
 
 [Critically Examining the “Neural Hype”: Weak Baselines and the Additivity of Effectiveness Gains from Neural Ranking Models](https://arxiv.org/pdf/1904.09171.pdf)
+
+## metric learning
+
+[A Metric Learning Reality Check](https://arxiv.org/pdf/2003.08505.pdf)
