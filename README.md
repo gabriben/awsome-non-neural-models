@@ -4,4 +4,4 @@
 
 # awsome-finetuned-baselines-beating-DL
 
-(Do We Really Need Deep Learning Models for Time Series Forecasting?)[https://arxiv.org/pdf/2101.02118.pdf]
+(https://arxiv.org/pdf/2101.02118.pdf)[Do We Really Need Deep Learning Models for Time Series Forecasting?]
