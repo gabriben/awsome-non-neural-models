@@ -19,3 +19,5 @@
 [Why Are Deep Learning Models Not Consistently Winning Recommender Systems Competitions Yet?: A Position Paper](https://www.researchgate.net/profile/Dietmar-Jannach/publication/345464903_Why_Are_Deep_Learning_Models_Not_Consistently_Winning_Recommender_Systems_Competitions_Yet_A_Position_Paper/links/608598ea8ea909241e261562/Why-Are-Deep-Learning-Models-Not-Consistently-Winning-Recommender-Systems-Competitions-Yet-A-Position-Paper.pdf)
 
 [Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recommendation Approaches](https://arxiv.org/pdf/1907.06902.pdf)
+
+[Critically Examining the “Neural Hype”: Weak Baselines and the Additivity of Effectiveness Gains from Neural Ranking Models](https://arxiv.org/pdf/1904.09171.pdf)
