@@ -1,8 +1,9 @@
-
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-
 # awsome-finetuned-baselines-beating-DL
+
+> In so far as a scientific statement speaks about reality, it must be falsifiable: and in so far as it is not falsifiable, it does not speak about reality – Karl R. Popper, The Logic of Scientific Discovery
+
 
 ## tabular data
 
