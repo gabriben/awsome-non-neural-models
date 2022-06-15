@@ -8,40 +8,40 @@
 
 ## tabular data
 
-[Revisiting Deep Learning Models for Tabular Data](https://openreview.net/pdf?id=i_Q1yrOegLY)
-*Yury Gorishniy, Ivan Rubachev, Valentin Khrulkov, Artem Babenko*
+[Revisiting Deep Learning Models for Tabular Data](https://openreview.net/pdf?id=i_Q1yrOegLY)  
+*Yury Gorishniy, Ivan Rubachev, Valentin Khrulkov, Artem Babenko*  
 NeurIPS 2021
 
 ## time series
 
-[Do We Really Need Deep Learning Models for Time Series Forecasting?](https://arxiv.org/pdf/2101.02118.pdf)
-*Shereen Elsayed, Daniela Thyssens, Ahmed Rashed, Hadi Samer Jomaa, and Lars Schmidt-Thieme*
+[Do We Really Need Deep Learning Models for Time Series Forecasting?](https://arxiv.org/pdf/2101.02118.pdf)  
+*Shereen Elsayed, Daniela Thyssens, Ahmed Rashed, Hadi Samer Jomaa, and Lars Schmidt-Thieme*  
 arXiv 2021
 
 ## text classification
 
-[On the cost-effectiveness of neural and non-neural approaches and representations for text classification: A comprehensive comparative study](https://www.sciencedirect.com/science/article/abs/pii/S0306457320309705)
-*Washington Cunha, Vítor Mangaravite, Christian Gomes, Sérgio Canuto, Elaine Resende, Cecilia Nascimento, Felipe Viegas, Celso França, Wellington Santos Martins, Jussara M. Almeida, Thierson Rosa, Leonardo Rocha, Marcos André Gonçalves*
+[On the cost-effectiveness of neural and non-neural approaches and representations for text classification: A comprehensive comparative study](https://www.sciencedirect.com/science/article/abs/pii/S0306457320309705)  
+*Washington Cunha, Vítor Mangaravite, Christian Gomes, Sérgio Canuto, Elaine Resende, Cecilia Nascimento, Felipe Viegas, Celso França, Wellington Santos Martins, Jussara M. Almeida, Thierson Rosa, Leonardo Rocha, Marcos André Gonçalves*  
 Information Processing & Management 2021
 
 ## recommendation (collaborative filtering)
 
-[On the Difficulty of Evaluating Baselines](https://arxiv.org/pdf/1905.01395v1.pdf)
-*Steffen Rendle, Li Zhang, Yehuda Koren*
+[On the Difficulty of Evaluating Baselines](https://arxiv.org/pdf/1905.01395v1.pdf)  
+*Steffen Rendle, Li Zhang, Yehuda Koren*  
 arXiv 2019
 
-[Why Are Deep Learning Models Not Consistently Winning Recommender Systems Competitions Yet?: A Position Paper](https://www.researchgate.net/profile/Dietmar-Jannach/publication/345464903_Why_Are_Deep_Learning_Models_Not_Consistently_Winning_Recommender_Systems_Competitions_Yet_A_Position_Paper/links/608598ea8ea909241e261562/Why-Are-Deep-Learning-Models-Not-Consistently-Winning-Recommender-Systems-Competitions-Yet-A-Position-Paper.pdf)
-*Dietmar Jannach, Gabriel Moreira, Even Oldridge*
+[Why Are Deep Learning Models Not Consistently Winning Recommender Systems Competitions Yet?: A Position Paper](https://www.researchgate.net/profile/Dietmar-Jannach/publication/345464903_Why_Are_Deep_Learning_Models_Not_Consistently_Winning_Recommender_Systems_Competitions_Yet_A_Position_Paper/links/608598ea8ea909241e261562/Why-Are-Deep-Learning-Models-Not-Consistently-Winning-Recommender-Systems-Competitions-Yet-A-Position-Paper.pdf)  
+*Dietmar Jannach, Gabriel Moreira, Even Oldridge*  
 RecSys Challenge 2020
 
-[Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recommendation Approaches](https://arxiv.org/pdf/1907.06902.pdf)
-*Maurizio Ferrari Dacrema, Paolo Cremonesi, Dietmar Jannach*
+[Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recommendation Approaches](https://arxiv.org/pdf/1907.06902.pdf)  
+*Maurizio Ferrari Dacrema, Paolo Cremonesi, Dietmar Jannach*  
 arXiv 2019
 
 ## learning to rank
 
-[Critically Examining the “Neural Hype”: Weak Baselines and the Additivity of Effectiveness Gains from Neural Ranking Models](https://arxiv.org/pdf/1904.09171.pdf)
-*Wei Yang, Kuang Lu, Peilin Yang, and Jimmy Lin*
+[Critically Examining the “Neural Hype”: Weak Baselines and the Additivity of Effectiveness Gains from Neural Ranking Models](https://arxiv.org/pdf/1904.09171.pdf)  
+*Wei Yang, Kuang Lu, Peilin Yang, and Jimmy Lin*  
 arXiv 2019
 
 ---
@@ -50,6 +50,6 @@ arXiv 2019
 
 ## metric learning
 
-[A Metric Learning Reality Check](https://arxiv.org/pdf/2003.08505.pdf)
-*Kevin Musgrave, Serge Belongie, Ser-Nam Li*
+[A Metric Learning Reality Check](https://arxiv.org/pdf/2003.08505.pdf)  
+*Kevin Musgrave, Serge Belongie, Ser-Nam Li*  
 arXiv 2020
