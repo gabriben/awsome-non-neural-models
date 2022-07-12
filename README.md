@@ -12,7 +12,7 @@
 *Yury Gorishniy, Ivan Rubachev, Valentin Khrulkov, Artem Babenko*  
 NeurIPS 2021
 
-[A comparison of neural and non-neural machine learning models for food safety risk prediction with European Union RASFF data](https://www.sciencedirect.com/science/article/pii/S0956713521008355)
+[A comparison of neural and non-neural machine learning models for food safety risk prediction with European Union RASFF data](https://www.sciencedirect.com/science/article/pii/S0956713521008355)  
 *Alberto Nogales, Rodrigo Díaz-Morón and Álvaro J.García-Tejedor*  
 Food Control 2022
 
@@ -31,8 +31,8 @@ Information Processing & Management 2021
 ##  Natural Language Generation
 
 [Non-neural Models Matter:
-A Re-evaluation of Neural Referring Expression Generation Systems](https://arxiv.org/pdf/2203.08274.pdf)
-*Fahime Same, Guanyi Chen and Kees van Deemter*
+A Re-evaluation of Neural Referring Expression Generation Systems](https://arxiv.org/pdf/2203.08274.pdf)  
+*Fahime Same, Guanyi Chen and Kees van Deemter*  
 arXiv 2022
 
 ## recommendation (collaborative filtering)
