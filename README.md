@@ -2,7 +2,7 @@
 
 # awsome-non-neural-models
 
-> In so far as a scientific statement speaks about reality, it must be falsifiable: and in so far as it is not falsifiable, it does not speak about reality – Karl R. Popper, The Logic of Scientific Discovery
+> In so far as a scientific statement speaks about reality, it must be falsifiable: and in so far as it is not falsifiable, it does not speak about reality – *Karl R. Popper, The Logic of Scientific Discovery*
 
 ---
 
@@ -11,6 +11,10 @@
 [Revisiting Deep Learning Models for Tabular Data](https://openreview.net/pdf?id=i_Q1yrOegLY)  
 *Yury Gorishniy, Ivan Rubachev, Valentin Khrulkov, Artem Babenko*  
 NeurIPS 2021
+
+[A comparison of neural and non-neural machine learning models for food safety risk prediction with European Union RASFF data](https://www.sciencedirect.com/science/article/pii/S0956713521008355)
+*Alberto Nogales, Rodrigo Díaz-Morón and Álvaro J.García-Tejedor*  
+Food Control 2022
 
 ## time series
 
