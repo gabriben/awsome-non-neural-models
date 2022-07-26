@@ -16,6 +16,11 @@ NeurIPS 2021
 *Alberto Nogales, Rodrigo Díaz-Morón and Álvaro J.García-Tejedor*  
 Food Control 2022
 
+[Why do tree-based models still outperform deep
+learning on tabular data?](https://arxiv.org/pdf/2207.08815.pdf) 
+*Léo Grinsztajn, Edouard Oyallon, Gaël Varoquaux*
+arXiv 2022
+
 ## time series
 
 [Do We Really Need Deep Learning Models for Time Series Forecasting?](https://arxiv.org/pdf/2101.02118.pdf)  
