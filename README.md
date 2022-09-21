@@ -17,8 +17,8 @@ NeurIPS 2021
 Food Control 2022
 
 [Why do tree-based models still outperform deep
-learning on tabular data?](https://arxiv.org/pdf/2207.08815.pdf) 
-*Léo Grinsztajn, Edouard Oyallon, Gaël Varoquaux*
+learning on tabular data?](https://arxiv.org/pdf/2207.08815.pdf)  
+*Léo Grinsztajn, Edouard Oyallon, Gaël Varoquaux*  
 arXiv 2022
 
 ## time series
@@ -53,6 +53,10 @@ RecSys Challenge 2020
 [Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recommendation Approaches](https://arxiv.org/pdf/1907.06902.pdf)  
 *Maurizio Ferrari Dacrema, Paolo Cremonesi, Dietmar Jannach*  
 arXiv 2019
+
+[Revisiting the Performance of iALS on Item Recommendation Benchmarks](https://dl.acm.org/doi/10.1145/3523227.3548486)  
+*Steffen Rendle, Walid Krichene, Li Zhang, Yehuda Koren*  
+RecSys 2022
 
 ## learning to rank
 
