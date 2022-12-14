@@ -33,7 +33,7 @@ arXiv 2021
 *Washington Cunha, Vítor Mangaravite, Christian Gomes, Sérgio Canuto, Elaine Resende, Cecilia Nascimento, Felipe Viegas, Celso França, Wellington Santos Martins, Jussara M. Almeida, Thierson Rosa, Leonardo Rocha, Marcos André Gonçalves*  
 Information Processing & Management 2021
 
-##  Natural Language Generation
+## natural language generation
 
 [Non-neural Models Matter:
 A Re-evaluation of Neural Referring Expression Generation Systems](https://arxiv.org/pdf/2203.08274.pdf)  
