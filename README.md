@@ -66,7 +66,7 @@ RecSys Challenge 2020
 *Maurizio Ferrari Dacrema, Paolo Cremonesi, Dietmar Jannach*  
 Recsys 2019
 
-[Evaluation of Session-based Recommendation Algorithms](https://arxiv.org/pdf/1803.09587.pdf) 
+[Evaluation of Session-based Recommendation Algorithms](https://arxiv.org/pdf/1803.09587.pdf)  
 *Malte Ludewig, Dietmar Jannach*  
 User Modeling and User-Adapted Interaction 2018
 
