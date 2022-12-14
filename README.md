@@ -67,7 +67,7 @@ RecSys Challenge 2020
 Recsys 2019
 
 [Evaluation of Session-based Recommendation Algorithms](https://arxiv.org/pdf/1803.09587.pdf) 
-*(Malte Ludewig, Dietmar Jannach)* 
+*Malte Ludewig, Dietmar Jannach*  
 User Modeling and User-Adapted Interaction 2018
 
 ## learning to rank
