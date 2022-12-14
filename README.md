@@ -8,10 +8,6 @@
 
 ## tabular data
 
-[Revisiting Deep Learning Models for Tabular Data](https://openreview.net/pdf?id=i_Q1yrOegLY)  
-*Yury Gorishniy, Ivan Rubachev, Valentin Khrulkov, Artem Babenko*  
-NeurIPS 2021
-
 [A comparison of neural and non-neural machine learning models for food safety risk prediction with European Union RASFF data](https://www.sciencedirect.com/science/article/pii/S0956713521008355)  
 *Alberto Nogales, Rodrigo Díaz-Morón and Álvaro J.García-Tejedor*  
 Food Control 2022
@@ -20,6 +16,10 @@ Food Control 2022
 learning on tabular data?](https://arxiv.org/pdf/2207.08815.pdf)  
 *Léo Grinsztajn, Edouard Oyallon, Gaël Varoquaux*  
 arXiv 2022
+
+[Revisiting Deep Learning Models for Tabular Data](https://openreview.net/pdf?id=i_Q1yrOegLY)  
+*Yury Gorishniy, Ivan Rubachev, Valentin Khrulkov, Artem Babenko*  
+NeurIPS 2021
 
 ## time series
 
@@ -40,7 +40,19 @@ A Re-evaluation of Neural Referring Expression Generation Systems](https://arxiv
 *Fahime Same, Guanyi Chen and Kees van Deemter*  
 arXiv 2022
 
-## recommendation (collaborative filtering)
+## recommendation
+
+[Revisiting the Performance of iALS on Item Recommendation Benchmarks](https://dl.acm.org/doi/10.1145/3523227.3548486)  
+*Steffen Rendle, Walid Krichene, Li Zhang, Yehuda Koren*  
+RecSys 2022
+
+[Session-aware Recommendation: A Surprising Quest for the State-of-the-art](https://reader.elsevier.com/reader/sd/pii/S0020025521005089?token=6284C13BA01880EBF931E70759F8793E32DDF16A9AD99EF52564027E47C27FB93D2E9AC388F6794B1F9D50899264D973&originRegion=eu-west-1&originCreation=20221214100656)  
+*Sara Latifi, Noemi Mauro, Dietmar Jannach*  
+Information Sciences 2021
+
+[Modeling Personalized Item Frequency Information for Next-basket Recommendation](https://arxiv.org/pdf/2006.00556.pdf)
+Haoji Hu, Xiangnan He, Jinyang Gao, Zhi-Li Zhang
+SIGIR 2020
 
 [On the Difficulty of Evaluating Baselines](https://arxiv.org/pdf/1905.01395v1.pdf)  
 *Steffen Rendle, Li Zhang, Yehuda Koren*  
@@ -52,11 +64,11 @@ RecSys Challenge 2020
 
 [Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recommendation Approaches](https://arxiv.org/pdf/1907.06902.pdf)  
 *Maurizio Ferrari Dacrema, Paolo Cremonesi, Dietmar Jannach*  
-arXiv 2019
+Recsys 2019
 
-[Revisiting the Performance of iALS on Item Recommendation Benchmarks](https://dl.acm.org/doi/10.1145/3523227.3548486)  
-*Steffen Rendle, Walid Krichene, Li Zhang, Yehuda Koren*  
-RecSys 2022
+[Evaluation of Session-based Recommendation Algorithms](https://arxiv.org/pdf/1803.09587.pdf)
+*(Malte Ludewig, Dietmar Jannach)*
+User Modeling and User-Adapted Interaction 2018
 
 ## learning to rank
 
