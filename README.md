@@ -50,8 +50,8 @@ RecSys 2022
 *Sara Latifi, Noemi Mauro, Dietmar Jannach*  
 Information Sciences 2021
 
-[Modeling Personalized Item Frequency Information for Next-basket Recommendation](https://arxiv.org/pdf/2006.00556.pdf)
-Haoji Hu, Xiangnan He, Jinyang Gao, Zhi-Li Zhang
+[Modeling Personalized Item Frequency Information for Next-basket Recommendation](https://arxiv.org/pdf/2006.00556.pdf)  
+*Haoji Hu, Xiangnan He, Jinyang Gao, Zhi-Li Zhang*  
 SIGIR 2020
 
 [On the Difficulty of Evaluating Baselines](https://arxiv.org/pdf/1905.01395v1.pdf)  
