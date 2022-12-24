@@ -46,6 +46,10 @@ arXiv 2022
 *Steffen Rendle, Walid Krichene, Li Zhang, Yehuda Koren*  
 RecSys 2022
 
+[Evaluation of algorithms for interaction-sparse recommendations: neural networks don’t always win](https://digitalcollection.zhaw.ch/bitstream/11475/24616/3/2022_Klingler-etal_Recommender-System_EDBT.pdf)  
+*Yasamin Klingler, Claude Lehmann, João Pedro Monteiro, Carlo Saladin, Abraham Bernstein, Kurt Stockinger*  
+EDBT 2022
+
 [Session-aware Recommendation: A Surprising Quest for the State-of-the-art](https://reader.elsevier.com/reader/sd/pii/S0020025521005089?token=6284C13BA01880EBF931E70759F8793E32DDF16A9AD99EF52564027E47C27FB93D2E9AC388F6794B1F9D50899264D973&originRegion=eu-west-1&originCreation=20221214100656)  
 *Sara Latifi, Noemi Mauro, Dietmar Jannach*  
 Information Sciences 2021
