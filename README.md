@@ -74,20 +74,20 @@ RecSys 2019
 *Malte Ludewig, Dietmar Jannach*  
 User Modeling and User-Adapted Interaction 2018
 
-[Neural Collaborative Filtering vs. Matrix Factorization Revisited](https://dl.acm.org/doi/abs/10.1145/3383313.3412488)
-*Steffen Rendle, Walid Krichene, Li Zhang, John Anderson*
+[Neural Collaborative Filtering vs. Matrix Factorization Revisited](https://dl.acm.org/doi/abs/10.1145/3383313.3412488)  
+*Steffen Rendle, Walid Krichene, Li Zhang, John Anderson*  
 RecSys 2020
 
-[Negative Interactions for Improved Collaborative Filtering: Don’t go Deeper, go Higher](https://dl.acm.org/doi/abs/10.1145/3460231.3474273)
-*Harald Steck, Dawen Liang*
+[Negative Interactions for Improved Collaborative Filtering: Don’t go Deeper, go Higher](https://dl.acm.org/doi/abs/10.1145/3460231.3474273)  
+*Harald Steck, Dawen Liang*  
 RecSys 2021
 
-[Embarrassingly Shallow Autoencoders for Sparse Data](https://dl.acm.org/doi/abs/10.1145/3308558.3313710)
-*Harald Steck*
+[Embarrassingly Shallow Autoencoders for Sparse Data](https://dl.acm.org/doi/abs/10.1145/3308558.3313710)  
+*Harald Steck*  
 WWW 2019
 
-[Sparse Linear Methods for Top-N Recommender Systems](https://ieeexplore.ieee.org/abstract/document/6137254)
-*Xia Ning, George Karypis*
+[Sparse Linear Methods for Top-N Recommender Systems](https://ieeexplore.ieee.org/abstract/document/6137254)  
+*Xia Ning, George Karypis*  
 IEEE ICDM 2011
 
 ## learning to rank
