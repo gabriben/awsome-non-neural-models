@@ -54,41 +54,37 @@ EDBT 2022
 *Sara Latifi, Noemi Mauro, Dietmar Jannach*  
 Information Sciences 2021
 
-[Modeling Personalized Item Frequency Information for Next-basket Recommendation](https://arxiv.org/pdf/2006.00556.pdf)  
-*Haoji Hu, Xiangnan He, Jinyang Gao, Zhi-Li Zhang*  
-SIGIR 2020
-
-[On the Difficulty of Evaluating Baselines](https://arxiv.org/pdf/1905.01395v1.pdf)  
-*Steffen Rendle, Li Zhang, Yehuda Koren*  
-arXiv 2019
+[Negative Interactions for Improved Collaborative Filtering: Don’t go Deeper, go Higher](https://dl.acm.org/doi/abs/10.1145/3460231.3474273)  
+*Harald Steck, Dawen Liang*  
+RecSys 2021
 
 [Why Are Deep Learning Models Not Consistently Winning Recommender Systems Competitions Yet?: A Position Paper](https://www.researchgate.net/profile/Dietmar-Jannach/publication/345464903_Why_Are_Deep_Learning_Models_Not_Consistently_Winning_Recommender_Systems_Competitions_Yet_A_Position_Paper/links/608598ea8ea909241e261562/Why-Are-Deep-Learning-Models-Not-Consistently-Winning-Recommender-Systems-Competitions-Yet-A-Position-Paper.pdf)  
 *Dietmar Jannach, Gabriel Moreira, Even Oldridge*  
 RecSys Challenge 2020
 
-[Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recommendation Approaches](https://arxiv.org/pdf/1907.06902.pdf)  
-*Maurizio Ferrari Dacrema, Paolo Cremonesi, Dietmar Jannach*  
-RecSys 2019
-
-[Evaluation of Session-based Recommendation Algorithms](https://arxiv.org/pdf/1803.09587.pdf)  
-*Malte Ludewig, Dietmar Jannach*  
-User Modeling and User-Adapted Interaction 2018
+[Modeling Personalized Item Frequency Information for Next-basket Recommendation](https://arxiv.org/pdf/2006.00556.pdf)  
+*Haoji Hu, Xiangnan He, Jinyang Gao, Zhi-Li Zhang*  
+SIGIR 2020
 
 [Neural Collaborative Filtering vs. Matrix Factorization Revisited](https://dl.acm.org/doi/abs/10.1145/3383313.3412488)  
 *Steffen Rendle, Walid Krichene, Li Zhang, John Anderson*  
 RecSys 2020
 
-[Negative Interactions for Improved Collaborative Filtering: Don’t go Deeper, go Higher](https://dl.acm.org/doi/abs/10.1145/3460231.3474273)  
-*Harald Steck, Dawen Liang*  
-RecSys 2021
+[On the Difficulty of Evaluating Baselines](https://arxiv.org/pdf/1905.01395v1.pdf)  
+*Steffen Rendle, Li Zhang, Yehuda Koren*  
+arXiv 2019
+
+[Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recommendation Approaches](https://arxiv.org/pdf/1907.06902.pdf)  
+*Maurizio Ferrari Dacrema, Paolo Cremonesi, Dietmar Jannach*  
+RecSys 2019
 
 [Embarrassingly Shallow Autoencoders for Sparse Data](https://dl.acm.org/doi/abs/10.1145/3308558.3313710)  
 *Harald Steck*  
 WWW 2019
 
-[Sparse Linear Methods for Top-N Recommender Systems](https://ieeexplore.ieee.org/abstract/document/6137254)  
-*Xia Ning, George Karypis*  
-IEEE ICDM 2011
+[Evaluation of Session-based Recommendation Algorithms](https://arxiv.org/pdf/1803.09587.pdf)  
+*Malte Ludewig, Dietmar Jannach*  
+User Modeling and User-Adapted Interaction 2018
 
 ## learning to rank
 
