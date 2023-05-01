@@ -68,15 +68,31 @@ RecSys Challenge 2020
 
 [Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recommendation Approaches](https://arxiv.org/pdf/1907.06902.pdf)  
 *Maurizio Ferrari Dacrema, Paolo Cremonesi, Dietmar Jannach*  
-Recsys 2019
+RecSys 2019
 
 [Evaluation of Session-based Recommendation Algorithms](https://arxiv.org/pdf/1803.09587.pdf)  
 *Malte Ludewig, Dietmar Jannach*  
 User Modeling and User-Adapted Interaction 2018
 
+[Neural Collaborative Filtering vs. Matrix Factorization Revisited](https://dl.acm.org/doi/abs/10.1145/3383313.3412488)
+*Steffen Rendle, Walid Krichene, Li Zhang, John Anderson*
+RecSys 2020
+
+[Negative Interactions for Improved Collaborative Filtering: Don’t go Deeper, go Higher](https://dl.acm.org/doi/abs/10.1145/3460231.3474273)
+*Harald Steck, Dawen Liang*
+RecSys 2021
+
+[Embarrassingly Shallow Autoencoders for Sparse Data](https://dl.acm.org/doi/abs/10.1145/3308558.3313710)
+*Harald Steck*
+WWW 2019
+
+[Sparse Linear Methods for Top-N Recommender Systems](https://ieeexplore.ieee.org/abstract/document/6137254)
+*Xia Ning, George Karypis*
+IEEE ICDM 2011
+
 ## learning to rank
 
-[ARE NEURAL RANKERS STILL OUTPERFORMED BY GRADIENT BOOSTED DECISION TREES?](https://openreview.net/pdf?id=Ut1vF_q_vC)  
+[Are Neural Rankers still Outperformed by Gradient Boosted Decision Trees?](https://openreview.net/pdf?id=Ut1vF_q_vC)  
 *Zhen Qin, Le Yan, Honglei Zhuang, Yi Tay, Rama Kumar Pasumarthi, Xuanhui Wang, Michael Bendersky, Marc Najork*  
 ICLR 2021
 
