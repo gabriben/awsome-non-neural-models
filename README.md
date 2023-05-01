@@ -76,6 +76,11 @@ User Modeling and User-Adapted Interaction 2018
 
 ## learning to rank
 
+[ARE NEURAL RANKERS STILL OUTPERFORMED BY
+GRADIENT BOOSTED DECISION TREES?](https://openreview.net/pdf?id=Ut1vF_q_vC)
+*Zhen Qin, Le Yan, Honglei Zhuang, Yi Tay, Rama Kumar Pasumarthi, Xuanhui Wang, Michael Bendersky, Marc Najork*  
+ICLR 2021
+
 [Critically Examining the “Neural Hype”: Weak Baselines and the Additivity of Effectiveness Gains from Neural Ranking Models](https://arxiv.org/pdf/1904.09171.pdf)  
 *Wei Yang, Kuang Lu, Peilin Yang, and Jimmy Lin*  
 arXiv 2019
