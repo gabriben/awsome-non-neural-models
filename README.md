@@ -42,6 +42,10 @@ arXiv 2022
 
 ## recommendation
 
+[Top-N Recommendation Algorithms: Aest for the State-of-the-Art](https://arxiv.org/pdf/2203.01155.pdf)  
+*Vito Walter Anelli, Alejandro Bellogín, Tommaso Di Noia, Dietmar Jannach, Claudio Pomo*  
+UMAP 2022
+
 [Revisiting the Performance of iALS on Item Recommendation Benchmarks](https://dl.acm.org/doi/10.1145/3523227.3548486)  
 *Steffen Rendle, Walid Krichene, Li Zhang, Yehuda Koren*  
 RecSys 2022
