@@ -8,6 +8,10 @@
 
 ## tabular data
 
+[Why do Random Forests Work? Understanding Tree Ensembles as Self-Regularizing Adaptive Smoothers](https://arxiv.org/pdf/2402.01502.pdf)
+*Alicia Curth, Alan Jeffares, Mihaela van der Schaar*
+arXiv 2024
+
 [A comparison of neural and non-neural machine learning models for food safety risk prediction with European Union RASFF data](https://www.sciencedirect.com/science/article/pii/S0956713521008355)  
 *Alberto Nogales, Rodrigo Díaz-Morón and Álvaro J.García-Tejedor*  
 Food Control 2022
