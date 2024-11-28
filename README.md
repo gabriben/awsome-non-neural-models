@@ -33,6 +33,10 @@ arXiv 2021
 
 ## text classification
 
+[Lightweight Safety Guardrails Using Fine-tuned BERT Embeddings](https://arxiv.org/abs/2411.14398)  
+*Aaron Zheng, Mansi Rana, Andreas Stolcke*  
+COLING 2025
+
 [On the cost-effectiveness of neural and non-neural approaches and representations for text classification: A comprehensive comparative study](https://www.sciencedirect.com/science/article/abs/pii/S0306457320309705)  
 *Washington Cunha, Vítor Mangaravite, Christian Gomes, Sérgio Canuto, Elaine Resende, Cecilia Nascimento, Felipe Viegas, Celso França, Wellington Santos Martins, Jussara M. Almeida, Thierson Rosa, Leonardo Rocha, Marcos André Gonçalves*  
 Information Processing & Management 2021
