@@ -117,7 +117,7 @@ arXiv 2019
 
 # still neural but simple-beats-basline
 
-# Text Classification
+## Text Classification
 
 [Lightweight Safety Guardrails Using Fine-tuned BERT Embeddings](https://arxiv.org/abs/2411.14398)  
 *Aaron Zheng, Mansi Rana, Andreas Stolcke*  
