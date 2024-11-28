@@ -66,6 +66,11 @@ EDBT 2022
 *Sara Latifi, Noemi Mauro, Dietmar Jannach*  
 Information Sciences 2021
 
+[A Comprehensive Review on Non-Neural Networks Collaborative Filtering Recommendation Systems](https://arxiv.org/abs/2106.10679)  
+*Carmel Wenga, Majirus Fansi, Sébastien Chabrier, Jean-Martial Mari, Alban Gabillon*  
+arXiv 2021
+
+
 [Negative Interactions for Improved Collaborative Filtering: Don’t go Deeper, go Higher](https://dl.acm.org/doi/abs/10.1145/3460231.3474273)  
 *Harald Steck, Dawen Liang*  
 RecSys 2021
@@ -81,6 +86,10 @@ SIGIR 2020
 [Neural Collaborative Filtering vs. Matrix Factorization Revisited](https://dl.acm.org/doi/abs/10.1145/3383313.3412488)  
 *Steffen Rendle, Walid Krichene, Li Zhang, John Anderson*  
 RecSys 2020
+
+[Performance comparison of neural and non-neural approaches to session-based recommendation](https://dl.acm.org/doi/10.1145/3298689.3347041)  
+*Malte Ludewig, Noemi Mauro, Sara Latifi, Dietmar Jannach*  
+Recsys 2019
 
 [On the Difficulty of Evaluating Baselines](https://arxiv.org/pdf/1905.01395v1.pdf)  
 *Steffen Rendle, Li Zhang, Yehuda Koren*  
