@@ -27,6 +27,10 @@ NeurIPS 2021
 
 ## time series
 
+[A comparison between machine and deep learning models on high stationarity data](https://www.nature.com/articles/s41598-024-70341-6)  
+*Domenico Santoro, Tiziana Ciano, Massimiliano Ferrara*  
+Nature 2024
+
 [Do We Really Need Deep Learning Models for Time Series Forecasting?](https://arxiv.org/pdf/2101.02118.pdf)  
 *Shereen Elsayed, Daniela Thyssens, Ahmed Rashed, Hadi Samer Jomaa, and Lars Schmidt-Thieme*  
 arXiv 2021
